@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav",
+        "age": 20,
+        "city": "Indore",
+        "language": "Python",
+        "marks": 85
+    },
+    {
+        "id": 2,
+        "name": "Priya",
+        "age": 21,
+        "city": "Bhopal",
+        "language": "Java",
+        "marks": 92
+    },
+    {
+        "id": 3,
+        "name": "Rahul",
+        "age": 19,
+        "city": "Rewa",
+        "language": "C++",
+        "marks": 76
+    },
+    {
+        "id": 4,
+        "name": "Ananya",
+        "age": 20,
+        "city": "Delhi",
+        "language": "JavaScript",
+        "marks": 89
+    },
+    {
+        "id": 5,
+        "name": "Vikram",
+        "age": 22,
+        "city": "Mumbai",
+        "language": "C",
+        "marks": 81
+    },
+    {
+        "id": 6,
+        "name": "Sneha",
+        "age": 21,
+        "city": "Jaipur",
+        "language": "Python",
+        "marks": 95
+    },
+    {
+        "id": 7,
+        "name": "Karan",
+        "age": 20,
+        "city": "Pune",
+        "language": "Java",
+        "marks": 68
+    },
+    {
+        "id": 9,
+        "name": "Arjun",
+        "age": 22,
+        "city": "Chennai",
+        "language": "C++",
+        "marks": 73
+    },
+    {
+        "id": 10,
+        "name": "Ishita",
+        "age": 20,
+        "city": "Kolkata",
+        "language": "Go",
+        "marks": 91
+    }
+]
